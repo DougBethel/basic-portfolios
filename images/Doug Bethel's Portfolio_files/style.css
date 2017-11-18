@@ -1,0 +1,68 @@
+body {
+  background-image: url(".. images/dust_scratches.png")
+}
+
+
+header {
+margin-bottom: 20px;
+ background-color: #ffffff;
+ width: 75%;
+}
+
+.yournameBox {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  width: 250px;
+  height: 80px;
+  color: white;
+  margin-top: 0;
+  padding: 20;
+  background-color: #4ba9a5;
+  text-align: center;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+a {
+  float: right;
+  margin-right: 50px;
+  color: lightgray;
+  padding: 20px;
+}
+
+.wrapper {
+  clear:both;
+  float: Left;
+  margin: 0 auto;
+  max-width: 650px;
+  background-color: #ffffff;
+  margin-top: 125px;
+}
+
+.sidebar {
+  float: right;
+  max-width: 270px;
+  top: 0;
+  right: 200px;
+  background-color: #ffffff;
+
+}
+
+.profilepic {
+  float: left;
+  margin: 10px;
+
+}
+.paragraph1 {
+  float: left;
+
+}
+
+h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color:#4faba7;
+}
+
+
+
+.

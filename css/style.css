@@ -1,0 +1,239 @@
+/*Index/template*/
+
+body {
+  background-image: url("../images/dust_scratches.png");
+
+}
+
+
+header {
+ margin-top: 0;
+ margin-bottom: 20px;
+ background-color: #ffffff;
+ width: 100%;
+ Height: 60px;
+ border-bottom: 1px solid #4ba9a5;
+ font-size: 20px;
+}
+
+
+
+.yournameBox {
+  float: left;
+  top: 0;
+  margin-left: 200px;
+  width: 250px;
+  height: 60px;
+  color: white;
+  margin-top: 0;
+  padding: 20;
+  background-color: #4ba9a5;
+  text-align: center;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.headerlinks {
+  float:right;
+  margin-right: 250px;
+  color: lightgray;
+
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.maincontent {
+  clear:both;
+  margin-left: 200px;
+  margin-top: 2px;
+  width: 650px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #dddddd;
+  padding: 20px;
+}
+
+.sidebar {
+  float: right;
+  margin-right: 250px;
+  margin-top: -300px;
+  max-width: 270px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #dddddd;
+  padding: 20px;
+
+}
+
+.profilepic {
+  float: left;
+  margin: 10px;
+
+}
+
+
+h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color:#4faba7;
+  border-bottom: 1px solid;
+  font-size: 25px;
+  margin-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color:#4faba7;
+  border-bottom: 1px solid;
+}
+
+p {
+color: #777777;
+font-style:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.wrapper{
+  clear:both;
+
+}
+
+ footer {
+clear: both;
+position: absolute;
+bottom:0;
+margin-bottom: 0;
+left: 0;
+color: white;
+background-color: #666666;
+text-align: center;
+height: 50px;
+width:100%;
+margin: 10px;
+border-top: solid 5px #4ba9a5;
+ }
+
+/*Contact Page Details*/
+ .nametext {
+   color: #777777;
+   font-style:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+ }
+
+ .emailtext {
+   color: #777777;
+   font-style:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.messagetext {
+  color: #777777;
+  font-style:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.namefield {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.emailfield {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.messagefield {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+  height: 200px;
+}
+
+.submit {
+  color: white;
+  background-color: #4ba9a5;
+  width: 100px;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.sidebar1 {
+  float: right;
+  margin-right: 250px;
+  margin-top: -460px;
+  max-width: 270px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #dddddd;
+  padding: 20px;
+}
+
+/*Portfolio Page*/
+
+table {
+  border-spacing: 50px;
+}
+
+h4 span {
+  position: absolute;
+  margin-top: -50px;
+  width:244px;
+  height: 30px;
+  text-align: center;
+  padding: 3px;
+  color: white;
+  background-color: #4ba9a5;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.sidebar2 {
+
+  float: right;
+  margin-right: 230px;
+  margin-top: -895px;
+  max-width: 270px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #dddddd;
+  padding: 20px;
+
+}
+
+.portfoliofooter {
+  clear: both;
+  position: absolute;
+  bottom:-350px;
+  margin-bottom: 0;
+  left: 0;
+  color: white;
+  background-color: #666666;
+  text-align: center;
+  height: 50px;
+  width:100%;
+  border-top: solid 5px #4ba9a5;
+}
